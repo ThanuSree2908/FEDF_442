@@ -1,1 +1,2 @@
-I Love GIT
+I Love GIT!
+Its a unique platform that takes quite some time to understand
